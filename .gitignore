@@ -1,0 +1,25 @@
+# Compiled class files
+backend/target/
+*.class
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.local
+
+# Environment variables & secrets
+.env
+*.key
+*.pem
+start-backend.ps1
+
+# IDE & OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
